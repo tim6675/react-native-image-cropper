@@ -220,4 +220,4 @@ ImageCrop.propTypes = {
   filePath: PropTypes.string
 };
 
-export default ImageCrop;
+module.exports=ImageCrop
